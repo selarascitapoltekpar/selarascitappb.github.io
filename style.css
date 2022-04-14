@@ -74,6 +74,7 @@
 	background-image: url(img/scr.png) !important;
 	background-size: cover;
 	height: 100vh;
+	width: 100%;
 	margin-top: -74px;	
 	background-position: center;
 }
